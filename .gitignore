@@ -21,6 +21,13 @@
 *.tar
 *.zip
 
+# Dependencies #
+################
+
+bower_components/
+node_modules/
+vendor/
+
 # Logs and databases #
 ######################
 *.log
