@@ -51,6 +51,11 @@ Thumbs.db
 .idea
 .vscode
 
+# Config #
+##########
+
+.env
+
 # Zend Framework #
 ##################
 
